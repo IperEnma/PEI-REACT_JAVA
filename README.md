@@ -18,5 +18,4 @@ Posiblemente [acá.](https://baufest.gitbook.io/baufest-pei/)
 
 
 ### actualizacion: ENMANUEL HERNANDEZ
-
-recordé que habia cambiado la clave de la conexion del backend con la base de datos, restableci la clave "admin", ademas tuve un error al impactar los datos en la base de datos, esto se debe a que me falto modificar el Mapper de jugador y agregarle entrenador (no se si habia algun otro error) pero cuando me di cuenta del error ya era tarde :( saludos.
+ clave de la conexion del backend con la base de datos "admin", ademas tuve un error al impactar los datos en la base de datos, esto se debe a que me falto modificar el Mapper de jugador y agregarle entrenador (no se si habia algun otro error)
